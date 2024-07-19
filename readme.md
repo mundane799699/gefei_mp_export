@@ -26,9 +26,8 @@ https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5OTIzMzYyMA==&scene
 
 ### 为什么不直接用wechatDownload？
 
-试过在我电脑上会闪退
+试过，在我电脑上会闪退
 
 ### 请随意打赏
 
-<img src="https://cdn.mundane.ink/202406292004494.jpg" width="300px" />
-<img src="https://cdn.mundane.ink/202406292004272.png" width="300px" />
+<img src="https://cdn.mundane.ink/202406292004494.jpg" width="300px" /><img src="https://cdn.mundane.ink/202406292004272.png" width="300px" />
