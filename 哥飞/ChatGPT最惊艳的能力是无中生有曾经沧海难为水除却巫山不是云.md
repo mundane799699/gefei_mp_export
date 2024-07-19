@@ -1,0 +1,165 @@
+![cover_image](http://mmbiz.qpic.cn/mmbiz_jpg/LBrX00GQeictcdhMSTfTSOe5rjfibNzpakCibY9o1Uy8RVjtoLe6jKs1vT8CzGBObuW27UB38oJBwX84pZHS2vfrA/0?wx_fmt=jpeg)
+
+#  ChatGPT最惊艳的能力是无中生有，曾经沧海难为水，除却巫山不是云
+
+原创  我是哥飞  [ 哥飞 ](javascript:void\(0\);)
+
+__ _ _ _ _
+
+今天的文章给大家讲讲故事。
+
+  
+
+熟悉哥飞的朋友都知道，2016年，Fenng 宣布创业之后不久，我也宣布创业，说要做一个技术搜索引擎。
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/LBrX00GQeictcdhMSTfTSOe5rjfibNzpakwWHRVuRhnuwW2sTg6BnoakAnrGjv1MibVO8ias3wOSn9M0miblDHSqtBw/640?wx_fmt=jpeg)
+​
+![](https://mmbiz.qpic.cn/mmbiz_jpg/LBrX00GQeictcdhMSTfTSOe5rjfibNzpakOeBicFfEibY4LegnicW5EZm6DfFhkykcJ6iaHMu2Euz5uJCq0h9RGfick7g/640?wx_fmt=jpeg)
+​  
+
+Fenng 和我私聊，说本来他们也要从这个方向切入，先做一个小产品的。既然我想做这方面的产品，他们就换一换。
+
+  
+
+不久后，Readhub 上线了，果然换了方向。
+
+  
+
+可惜，我那时候忙着做H5外包，一周一个项目，一个项目收费一万多，项目就没停过，赚钱赚到手软，压根就没时间做搜索引擎，  最后项目流产了。
+
+  
+
+期间，Fenng问过我一次进度，我说在忙着赚钱，一个月能赚四五万，从没见过这么多钱，我先赚钱，搜索引擎的事以后再说。
+
+  
+
+那时候为什么我想做技术搜索引擎呢？
+
+  
+
+因为我自己就有这个需求。
+
+  
+
+各大搜索引擎的中文技术搜索结果质量堪忧，技术人员深受其苦。
+
+  
+
+我就想着是否可以索引各个编程语言、开发框架、各种项目库的文档，再索引我人工挑选出来的技术博客、技术社区里的高质量帖子。
+
+  
+
+相当于人工筛选过滤优质内容提供给搜索引擎索引。
+
+  
+
+但不是简单的分词索引就完事，而是能够把信息结构化。
+
+  
+
+举个例子，当我在输入框输入“php计算数组长度函数”，不应该返回介绍函数使用的文章列表给我，而应该直接返回 php.net 上 count
+函数的介绍页面内容给我。
+
+  
+
+就像下面截图一样，也就是所搜即所得，不需要我在多个搜索结果里找可能符合我要求的结果，然后再点开一个新页面才能看到内容。
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/LBrX00GQeictcdhMSTfTSOe5rjfibNzpakYK7iaPSichxZ67NvuU1LwMzsVNNW6nEyiasiaQ1qLuc1Nia3LPoQvJYt6IQ/640?wx_fmt=jpeg)
+​
+
+  
+
+而如果我在输入框里输入的是“php count 函数参数”，那么我期望看到的是下面这样的。
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/LBrX00GQeictcdhMSTfTSOe5rjfibNzpak7EF9ia5QEq0MC7e1WYfAd1PqD3CJ1n8PwCnt95yDqWwPoc0rYGPPm6w/640?wx_fmt=jpeg)
+​  
+
+而如果我在输入框里输入的是“php count 使用示例”，那么我期望看到的是下面这样的。
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/LBrX00GQeictcdhMSTfTSOe5rjfibNzpakzyiamv5e58XHk2KFia4NHSdfeoy6KTLFzA8CAG1dr1kcI47EjTKmAqXQ/640?wx_fmt=jpeg)
+​
+
+  
+
+也就是说，我想做的搜索引擎能够读懂我在问什么，也能够根据我问的返回符合我要求的结果。
+
+  
+
+而这个结果哪里来？
+
+  
+
+只能是来自于从各种文档、文章里截取的结构化内容。
+
+  
+
+但是，注意，我要说但是，这依然还是属于传统搜索引擎，返回的结果来自于对已有内容的裁剪，  而无法无中生有创造内容。
+
+  
+
+我们再把上面三个问题交给 ChatGPT ，看看它会怎么回答。
+
+  
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/LBrX00GQeictcdhMSTfTSOe5rjfibNzpakEJ4Y4Zzf7hBM834EFiabTiaCOkNMxGwKMEmQszMicymyIKvc7U5cbYaAQ/640?wx_fmt=jpeg)
+​
+![](https://mmbiz.qpic.cn/mmbiz_jpg/LBrX00GQeictcdhMSTfTSOe5rjfibNzpakC47DNNcDlDps6LR2aNg1hwoibCyTBpxQP7LED9BFRAdfoj335jHCdPg/640?wx_fmt=jpeg)
+​
+![](https://mmbiz.qpic.cn/mmbiz_jpg/LBrX00GQeictcdhMSTfTSOe5rjfibNzpakCCxuz7Im37icsWPZtJwrKicnMLmXmRNc5sRDxicVmuGHvJfHXWv83lheA/640?wx_fmt=jpeg)
+​
+
+  
+
+从 ChatGPT 的回答可以看到，它通过理解内容，理解我问的问题，然后用自己的话来回答了我的问题，它无中生有创造了新的内容。
+
+  
+
+无中生有，对，无中生有，这是 ChatGPT 最强大的地方。
+
+  
+
+所以，你能知道我这几天为什么这么兴奋吗？
+
+  
+
+因为 ChatGPT 实现了我曾经想要做的产品，并且做得更好，好一万倍的那种好。
+
+  
+
+ChatGPT 给人全新的体验，曾经沧海难为水，除却巫山不是云。
+
+  
+
+这就是我的感觉，用了 ChatGPT 后，再也不想有传统搜索引擎那种只能根据关键字索引找到内容的体验了。
+
+  
+
+我期待，期待着 ChatGPT 能够开放提供给用户喂语料，这样我就可以把更多的文档喂给他，进而帮助我们更好的学习、工作、生活。
+
+预览时标签不可点
+
+微信扫一扫  
+关注该公众号
+
+
+
+
+
+****
+
+
+
+****
+
+
+
+  收藏
+

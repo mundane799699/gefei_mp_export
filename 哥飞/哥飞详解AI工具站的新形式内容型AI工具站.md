@@ -1,0 +1,340 @@
+![cover_image](https://mmbiz.qpic.cn/sz_mmbiz_jpg/LBrX00GQeictKibGYIqEIsvlDbbICtxCKQicmaibWpib3CfAc61iafIicRvpW8JMT6RXFGkGG5QAO3AhEHruCwA5ZzTrQ/0?wx_fmt=jpeg)
+
+#  【哥飞详解】AI工具站的新形式，内容型AI工具站
+
+原创  我是哥飞  [ 哥飞 ](javascript:void\(0\);)
+
+__ _ _ _ _
+
+大家好，我是哥飞。
+
+向大家介绍哥飞团队上线的一个新产品，AI贴纸生成器 Sticker.Show ，网址在下面：  
+https://sticker.show/
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/LBrX00GQeictKibGYIqEIsvlDbbICtxCKQlwrwS1zDIU1d7W8bhFpias7K8Bu0zw1mwahTvxTo4M6DgaoE7CGVSVQ/640?wx_fmt=png&from=appmsg)
+
+要说有什么特色，可能也没啥特色，就是很正常的基于输入的提示词生成贴纸，并且能够展示出来。
+
+跟哥飞上次在《 [ 【哥飞推荐】一个开源AI贴纸生成器，同时也是
+](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650082220&idx=1&sn=c0f1a723fc79bc86979ac4f5fdbac74b&chksm=bf3f3a978848b381e2eed5d158bb775506395be25f221aaf03333e5aa4fe65f00f42f27e45fd&scene=21#wechat_redirect)
+》《 [ 【哥飞评站】AI贴纸生成网站 StickerBaker 的SEO评测报告和改进建议（4000字）
+](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650082285&idx=1&sn=20faa4fbebc68bcc43d82a322bd86e6f&chksm=bf3f3ad68848b3c04f7ba8b55bb9568869788dfdf573458c85485577b343b10261a1c12c757e&scene=21#wechat_redirect)
+》介绍的老外做的AI贴纸生成器差不多。
+
+那么为什么在别人已经做了一个同类产品时，还要再做一个呢？
+
+因为这是一种AI工具站的新形式，内容型的AI工具站。
+
+网站提供工具给用户使用，用户使用过程中产生的内容会出现在广场上被更多人看到。当然也会被谷歌看到，进而被抓取被索引。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/LBrX00GQeictKibGYIqEIsvlDbbICtxCKQQnRDN49NYicPgzNolWAFgtEMUZKmNP0yphSe5orribh4wajKPWvr0Oqg/640?wx_fmt=png&from=appmsg)
+
+当有人在谷歌搜索某些贴纸相关关键词时，我的这个网站的图片就有可能出现在搜索结果里，从而吸引用户点击打开我的网站。
+
+用户用得越多，产生的内容越多，这些内容又通过搜索引擎带来更多的用户。
+
+当用户不想生成的内容被公开，或者想要下载高清大图时，就可以付费订阅。
+
+相当于工具免费，增值服务收费。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/LBrX00GQeictKibGYIqEIsvlDbbICtxCKQVI0J1AUPonJnjC2mLak2ZSjPib8N7Id9mPvQ9JuhZqqO7bqqibuFc2Yw/640?wx_fmt=png&from=appmsg)
+
+这就是内容型AI工具站，这个名字是哥飞起的。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/LBrX00GQeictKibGYIqEIsvlDbbICtxCKQ3MPR3kApfC6eibauuicInpbFfR1dYkmBRSOQ34c2trWFZVS1Ee0bva4A/640?wx_fmt=png&from=appmsg)
+
+这种站是垃圾站吗？
+
+显然不是，因为有工具来满足每一个用户的个性化需求，也有真实用户产生的真实内容供大家消费。
+
+那么这种模式可以做好多站吗？
+
+是的，可以上很多站，各种需求都可以用这个模式做一遍。
+
+而且哥飞让小伙伴在开发这个网站时，就做成了模板化，也就是我今天可以上一个AI贴纸站，明天又能用这套程序上一个AI头像站，或者AI视频站，等等各种站都可以。
+
+无非就是基于用户的输入，调用AI处理后，输出内容。
+
+输入的可以是文字、图片、视频、网址，输出的可以是文章、图片、视频，甚至是Web App。
+
+今天，哥飞把这套模式免费公开，不要钱，只希望大家做的时候能够想起，是哥飞告诉你的。
+
+那么这种内容型的AI工具站到底要怎么做？  
+
+有哪些细节要注意的呢？
+
+请加入哥飞的付费社群“哥飞的朋友们”，哥飞会为你详细解答。  
+
+下面为大家介绍一下这个社群。
+
+先给  大家看看已经在社群里的其他朋友怎么评价的吧。
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/LBrX00GQeictfJNjePhchkZYLuBwKPcJl2yZPhaRV7VWHg1Fe9tIs05v9QTFBq1oCZjVn9qB08LszWxrFibHHeMQ/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+那么这到底是一个什么样的社群呢？  
+
+一句话介绍，这是一个教你  出海做网站赚美元  的社群。  
+
+哥飞知道，肯定会有人说，教人赚钱最赚钱。  
+
+但是，哥飞这个社群，你学了，是真的能够赚美元的。
+
+因为哥飞不是教你做一个类似的社群去赚别人的钱。  
+
+哥飞教你怎么挖掘需求，怎么搞SEO，怎么搞流量，怎么把流量变现。
+
+或者说，哥飞其实是在给大家做微培训。
+
+很多开发者说空有技术但是不知道做什么好，哥飞教你如何挖掘需求。
+
+  1. [ 人人都能学会的发掘 web 产品需求方法入门  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650079475&idx=1&sn=6d37631726b73f988d5c98b5d0ed3f87&chksm=bf3f31c88848b8de0ad5ab17faab210bccab8b0eaa3ae782d8e67fff4099e1480d2560b419a3&scene=21#wechat_redirect)
+
+  2. [ 人人都能学会的挖掘 web 产品需求之从出站域名发现新需求新产品  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650079764&idx=1&sn=9587fd233f6d36350430e4e5b7f7e574&chksm=bf3f332f8848ba3927811902eb69d728b2dedf61d808bd6f3cc2536a220e8b99a96aada84796&scene=21#wechat_redirect)
+
+  3. [ 【5000字长文】海外工具从需求挖掘到网站制作全流程让你一篇文章学会  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080068&idx=1&sn=fd78f26239bf2187919b613a8d7c9a4f&chksm=bf3f327f8848bb69d2ef72fff06666370f0f5ad83dccccbf584a77c864f70120e625fad5f27a&scene=21#wechat_redirect)
+
+  4. [ 【收藏】51个挖掘需求时能用得上的财富密码关键词哥飞免费赠送给大家  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080142&idx=1&sn=dddac616e04a8fa3018c50877e962f5b&chksm=bf3f32b58848bba31822a7d69e5c88a32a58f5ffd0d2471c1e012220970bdd4ea8509cceef1f&scene=21#wechat_redirect)
+
+  5. [ 养网站防老第1步，挖掘出第1个需求  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080669&idx=1&sn=baf814d85976df09a85c44d9a45a943b&chksm=bf3f34a68848bdb065889163a3b58f10566b937769d679fa50b25768351d55ea4ef24271cae4&scene=21#wechat_redirect)
+
+  6. [ 哥飞教你通过分析月访问量2445万的 Gumroad 高流量页面来挖掘他人正在赚钱的需求  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081823&idx=1&sn=30f3ce57f4da0076926bc1a6374bbf89&chksm=bf3f3b248848b2323c5972db398f39af3a7cda1fa1dcbf1db83df5e578ba068dcd424343a650&scene=21#wechat_redirect)
+
+  7. [ 以月访问量1.75亿的Character.ai为例，哥飞教你如何挖掘大流量网站的新流量机会  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081932&idx=1&sn=827ac70589eea6b5528328bcb92b9577&chksm=bf3f3bb78848b2a147e24ecbdeeaabfd197acd579ee6d5b0fe60097556529d145ec108a14d24&scene=21#wechat_redirect)
+
+  8. [ 某个月访问量3000多万的网站里有个月访问量118万的页面，有人基于这个页面的需求做了个月收入12万+美金的AI App  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081436&idx=1&sn=20d619ad09a225104ee64cbe68bfb98f&chksm=bf3f39a78848b0b1dfc38e7696f143541cd129702e6c31311631bc75948099b01069d2eae6a4&scene=21#wechat_redirect)
+
+  9. [ 哥飞教你通过分析月访问量2445万的 Gumroad 高流量页面来挖掘他人正在赚钱的需求  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081823&idx=1&sn=30f3ce57f4da0076926bc1a6374bbf89&chksm=bf3f3b248848b2323c5972db398f39af3a7cda1fa1dcbf1db83df5e578ba068dcd424343a650&scene=21#wechat_redirect)
+
+  10. [ 【哥飞推荐】如果你做AI工具没灵感，可以来这里：一个让你可以找到真实AI需求的地方  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650082341&idx=1&sn=15b3fdee36ddfe58c24fd7a32e551064&chksm=bf3f3d1e8848b408dadca78244de75d60777e1700a3292cdf54828f9c6081fdc40cbe0cba8cb&scene=21#wechat_redirect)
+
+  11. [ 分享个搜索量跟 Midjourney 和 Stable Diffusion 差不多的关键词，有个单页网站用这个关键词赚了100万  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081681&idx=1&sn=b09e339c1d2844149632df6147db5fb5&chksm=bf3f38aa8848b1bcd8d71d646bad845a7bd53d669b4c366b0fede4feb8115e73cda67b7909a7&scene=21#wechat_redirect)   
+
+  
+很  多开发者说做出来的产品没人用，哥飞教你搞SEO搞流量。
+
+  1. [ 我如何通过SEO和Adsense优化，把一个网站广告收入从每月八百多美元提升到每月两千多美元，经验全分享 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650079551&idx=1&sn=1b81abe359ad1ea25794d51fe5a53ce4&chksm=bf3f30048848b912df36d4c7660396e8160630d4444fb9259894239b2584a3bf41743c59e26d&scene=21#wechat_redirect)
+
+  2. [ 有了这几个关键字优化难度分析工具，妈妈再也不怕我不会判断SEO难度了 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650079599&idx=1&sn=f131fb62e528ead77ef5e48b0223121c&chksm=bf3f30548848b942487ffc1b4f6832df930d3dade70115f52754566d621440dd4eaec9874a98&scene=21#wechat_redirect)
+
+  3. [ 如何用AI做SEO之内容自动批量生成，从搜索引擎获取免费流量 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650079606&idx=1&sn=4c3abe3f8bb643dfefcd6660e6562b72&chksm=bf3f304d8848b95bc4239a68c9948f733d1749897e9f87cbdf1cb988c4286e1b6f4f2014f124&scene=21#wechat_redirect)
+
+  4. [ 如何给一个已经上线的网站出SEO改造建议 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080016&idx=1&sn=dbd4c56dc47b6bb6cf3fd848950810ac&chksm=bf3f322b8848bb3d683e505bf266916c0fb6725039ea050557b146525f02266a15e5eda9795a&scene=21#wechat_redirect)
+
+  5. [ 月访问量八百万的在线自动化工具站如何用内容做SEO获取大量优质免费流量？ ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080921&idx=1&sn=4100b7591854058af849dc3236f65b7f&chksm=bf3f37a28848beb49c32cd1a8a0f07716cb81d42f380b9e2698bf2111979411a4bf44a3de372&scene=21#wechat_redirect)
+
+  6. [ 介绍几个 Ahrefs 家的免费SEO工具 Free SEO Tools（上） ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081209&idx=1&sn=3f456b144063bf18517d5da0b1323c9f&chksm=bf3f36828848bf943b002cac725272d4d0768397a427c61ec7a27cfd3c32a501dc8338322a54&scene=21#wechat_redirect)
+
+  7. [ 介绍几个 Ahrefs 家的免费SEO工具 Free SEO Tools（下） ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081233&idx=1&sn=be5a30dbff82119a9c564552d74088f3&chksm=bf3f36ea8848bffc1b33537597050a65010a6bd3757fde29cc6d32c5d01cc8ed4a447775b70c&scene=21#wechat_redirect)
+
+  8. [ 【哥飞带你读】你需要了解的10个重要SEO元标签（上） ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650082107&idx=1&sn=62f664473462228f5d03fb10d29ffa32&chksm=bf3f3a008848b3166bce42c86fdd070cead41af4df106fabd7f490ab6cbfcc38683f42183a05&scene=21#wechat_redirect)
+
+  9. [ 【哥飞带你读】你需要了解的10个重要SEO元标签（中） ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650082113&idx=1&sn=bedf2b5a87ac6cc0d4aee2b60febc61f&chksm=bf3f3a7a8848b36c90819dc236a7ee36eae6b00d0a4fa04e551ac5c171f42631e06ef1bd85cf&scene=21#wechat_redirect)
+
+  10. [ 【哥飞带你读】你需要了解的10个重要SEO元标签（下） ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650082126&idx=1&sn=5a4d4b231eec5ac66ccb9ffa64382025&chksm=bf3f3a758848b363fc6a402e40840001f3bb8363c76be5658f3296d62fbb4d59dcd62d0ac063&scene=21#wechat_redirect)
+
+  11. [ 推荐一款好用且免费的SEO插件，哥飞天天都在用 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650082258&idx=1&sn=e5d0a8e9a89c3793013d97ba53496c9c&chksm=bf3f3ae98848b3ff9bbdd5270be5b0a44ef41df81a89307190ff927c22f5bfde00f97ff76dd1&scene=21#wechat_redirect)
+
+  12. [ 【哥飞评站】AI贴纸生成网站 StickerBaker 的SEO评测报告和改进建议（4000字） ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650082285&idx=1&sn=20faa4fbebc68bcc43d82a322bd86e6f&chksm=bf3f3ad68848b3c04f7ba8b55bb9568869788dfdf573458c85485577b343b10261a1c12c757e&scene=21#wechat_redirect)
+
+  13. [ 【5000字调查分析】建站20天拿下480万访问量，俄罗斯版的妙鸭相机是怎么做到的？ ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650079744&idx=1&sn=0d82dcd95fe435a6b46a53a642a6c4e4&chksm=bf3f333b8848ba2deee768dea94b0ed5c2101c5bbf689cf536967d6141910b14f55ba03ed5c9&scene=21#wechat_redirect)
+
+  14. [ 【哥飞解读】2024年谷歌算法排名因素变化 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081965&idx=1&sn=c011ca451d92007bbbdc6325c9ea018f&chksm=bf3f3b968848b280abf0a8d0311683fe5ffd7d5ede55b3cb9840e8fa073bd32a334de55703d8&scene=21#wechat_redirect)
+
+  15. [ 【哥飞带你读】Ahrefs研究：网页从上线开始算起拿到排名需要多久时间 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080904&idx=1&sn=1454bcd8741f6c58baa1be28d47668e1&chksm=bf3f37b38848bea55c541b2a584c2c42b952f450504882c6786a9ab7c6770bdb5479c020f544&scene=21#wechat_redirect)   
+  
+
+很多开发者说有流量不知道怎么变现，哥飞教你通过Adsense广告变现。
+
+  1. [ [8000字讲解]人人都能学会的英文网站 Adsense 赚钱入门  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650079316&idx=1&sn=02cd11a4bee177343b05e6798913159b&chksm=bf3f316f8848b879f22de143965d98c5094220f72e38808741627173d0fea40e9182c1e1da73&scene=21#wechat_redirect)
+
+  2. [ 我如何通过SEO和Adsense优化，把一个网站广告收入从每月八百多美元提升到每月两千多美元，经验全分享  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650079551&idx=1&sn=1b81abe359ad1ea25794d51fe5a53ce4&chksm=bf3f30048848b912df36d4c7660396e8160630d4444fb9259894239b2584a3bf41743c59e26d&scene=21#wechat_redirect)
+
+  3. [ Adsense账号注册、审核、网站审核的一点经验分享  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650079908&idx=1&sn=516d4cbd45f33d6946b34a9f2c9ed8ef&chksm=bf3f339f8848ba8923c8e5d767d5a93b341ec1ed6fd0afbe44addad4a1e7cb1e6871724b97ca&scene=21#wechat_redirect)
+
+  4. [ 如何快速估算一个网站的Adsense广告收入？  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650079918&idx=1&sn=02ea84be5ed709533289850e3d719ad2&chksm=bf3f33958848ba833f68d1815d2e9d2ef729409f855a3b335b50cf0d47d413e98d771a6b1a2f&scene=21#wechat_redirect)
+
+  5. [ Adsense如何收取Pin码，如何上传文件进行实名实地认证  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650079924&idx=1&sn=903ecb268adfd1920d4ef30f2c16cfd5&chksm=bf3f338f8848ba99ba918af8d23774590af529ddf8722b288faba283bfd6364be2609958e48e&scene=21#wechat_redirect)
+
+  6. [ 从一个AI工具站最近7天Adsense不同国家收入数据分析对比告诉你为什么要出海  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650079931&idx=1&sn=bc2c752d80fb9d69e71b04d2301d728a&chksm=bf3f33808848ba96609a7f3b5487a7163ffd050c72f4401b44fe4d2de960ddb2461d210a7bad&scene=21#wechat_redirect)
+
+  7. [ 哥飞解读：Adsense 生态是谷歌的胜利  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080421&idx=1&sn=34a5221bd0fb6a3372c867332e7c2911&chksm=bf3f359e8848bc88a8680f640d03931e95380b367ef254de6bca981674fed23b542cf44b1cfd&scene=21#wechat_redirect)   
+  
+
+当然，仅仅靠Adsense广告是赚不了大钱的，所以哥飞还教你挖掘用户付费意愿强的需求，直接向用户收费。  
+
+  1. [ 对于我们来说，尽快多赚点美元可能是最适合我们的方案。  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650079880&idx=1&sn=e16b2fb78021cdc594148c9ff7c83df8&chksm=bf3f33b38848baa58d761ae4abac9eaee4d7600f5f6d778e3fc181933063b7c66ee027978e06&scene=21#wechat_redirect)
+
+  2. [ 哥飞解读：年收入1400万美元的一人公司为何这么赚？  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080410&idx=1&sn=a17e8fe99592e36f8a5783c234d190ac&chksm=bf3f35a18848bcb7f877df884e9f955259617b685f3f363238f5272bfc0797f3e57f142799f9&scene=21#wechat_redirect)
+
+  3. [ 国庆放假大家都没闲着，都在上新站搞流量赚美元；社群配套网站首次亮相  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080559&idx=1&sn=0ae743c2df3dcbcf46e0a73797463300&chksm=bf3f34148848bd0245d853b662d977ac4736e6475c6d5e7546c157311669f445a08e23df27ee&scene=21#wechat_redirect)
+
+  4. [ AI工具站日收入破千美元；零基础入门养网站防老路线图  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080885&idx=1&sn=4ee454604407e52da759d5aecca2a2de&chksm=bf3f374e8848be5868e3ab9d7e0fcc794eacb7874c563ca3cafedd60f829cbeb5e4032d5bee4&scene=21#wechat_redirect)
+
+  5. [ 与纯银探讨再聊我们为什么要出海赚美元  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080963&idx=1&sn=27e9253788bb2c414e057025d79162cc&chksm=bf3f37f88848beee9c49e3a5d4070009a3397780de4c38213f96447d53e2f95174d74361dc5a&scene=21#wechat_redirect)
+
+  6. [ 为何这个年收入130万美元的网站每月只有六万多访问量？  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080973&idx=1&sn=b0af9cadd30375f5b13497f46bc3f1ca&chksm=bf3f37f68848bee0185d37d8b816dafafb9f45703d9ce0603e327bbd007ab725de2724f9bce6&scene=21#wechat_redirect)
+
+  7. [ 【哥飞观察】分享一个月收入240万美元且最近流量暴涨的产品  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081764&idx=1&sn=94606e7cb5348382f39984175c85aaba&chksm=bf3f38df8848b1c9050584f56cf75e7545233961567c3543e638fe87a7180c2ae0784a48dcfd&scene=21#wechat_redirect)
+
+  8. [ 每天不到100UV的网站也有人付费；11月初做的网站现在已经月收入3000美元了！  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081997&idx=1&sn=31d0f642c8c5ea88fda32b1856050f5d&chksm=bf3f3bf68848b2e0cde67ec6d42e176bd9b58ee423a8ee73e532eaa48b35587441033e7db95a&scene=21#wechat_redirect)
+
+  9. [ 上站，上站，朋友们请上站！想要赚美元就多上站！  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650082334&idx=1&sn=f489aa7167db129917a96c7ee2390e38&chksm=bf3f3d258848b433a27e0ed92f66fab60ebbee4b3296ed489497bf7153cfe4006532e9d9ceef&scene=21#wechat_redirect)
+
+  10. [ 1200UV的AI工具站每天200美元收入  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650082406&idx=1&sn=97981a833200f6e219e46d5739d2b17a&chksm=bf3f3d5d8848b44becf684f5d23eefbb43907d7f38644731a9d087f2f7dc6b03c260bbeef7ae&scene=21#wechat_redirect)   
+
+  
+下面这张图，大家  肯定看到过，  具体可以看哥飞这篇文章《  [ 1200UV的AI工具站每天200美元收入
+](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650082406&idx=1&sn=97981a833200f6e219e46d5739d2b17a&chksm=bf3f3d5d8848b44becf684f5d23eefbb43907d7f38644731a9d087f2f7dc6b03c260bbeef7ae&scene=21#wechat_redirect)
+》，只要你找到需求，只要你敢收费，用户就会付费。  
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/LBrX00GQeicvLl3EPKBQL6rx85MfibdIEkYxS6NsiclLLWjbSuL7uRhJYTia75UFCaMgldULEjrnpxvuIrHNy4ia9Lw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+很多开发者说，国内付费习惯没养成，所以哥飞教你出海赚钱，教你做多语言搞全世界的流量。
+
+  1. [ 他给博客增加多语言支持后，访问量增加了10倍  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080629&idx=1&sn=7cb843cbd5e1c673d1e10583465b1edd&chksm=bf3f344e8848bd58e467bd56210a13e0024218491b654b92d556dce2956ce8181d2efa77da4b&scene=21#wechat_redirect)
+
+  2. [ 【6000字详解】养网站防老第6步：利用ChatGPT给网站增加多语言支持  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080755&idx=1&sn=27c8b30bcbf77d6e9aeea6469ca3c118&chksm=bf3f34c88848bddeedc07dc6529718c8a05b2befb5432b6907bd4a3bbbd44f451c9bcf4c32d5&scene=21#wechat_redirect)
+
+  3. [ 再聊多语言：为什么不建议使用子域名而更建议使用子目录  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650082091&idx=1&sn=c067c1b413e900726c8598529c2c0bdc&chksm=bf3f3a108848b306c5eb43b264fc3faa69df6227aa68d8d13e43079850ca3d24dde3de0907fb&scene=21#wechat_redirect)
+
+  4. [ 别人做过的产品我还能不能做？哥飞告诉你，还能做  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080128&idx=1&sn=1e3008e113c5e1a537057f361a0aa017&chksm=bf3f32bb8848bbad590c3a20757db7330f3136bf825d64a2a7cd915b8503a8a681b24c02200c&scene=21#wechat_redirect)
+
+  5. [ 为什么俄罗斯版妙鸭相机即使拿下1840万月访问量，也主要只在几个国家火？哥飞告诉你答案  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080214&idx=1&sn=6bec8257bc6b77b8fdc3a33272bc0cc1&chksm=bf3f32ed8848bbfb1303701b2f64b2b20667812727d3367f2edb7707c257f0596815f9662e90&scene=21#wechat_redirect)
+
+  6. [ 只要放眼全球，就全是机会  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081640&idx=1&sn=9278fcc6b7bb089e27cc82e1ba2cd3e2&chksm=bf3f38538848b145e35c00428d7a594cee47f34ec2656688d7cae72aae05048fd70fde42dc10&scene=21#wechat_redirect)   
+  
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/LBrX00GQeictfJNjePhchkZYLuBwKPcJlOtJKwtPtia2rtDN8yPR1zQ7n6shmIqUDB0rIzthY84NMrzBZroiaicGcA/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+二十年前就存在的SEO，碰上最新的AI，产生了神奇的化学反应。  
+
+  1. [ 从一个AI工具站最近7天Adsense不同国家收入数据分析对比告诉你为什么要出海  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650079931&idx=1&sn=bc2c752d80fb9d69e71b04d2301d728a&chksm=bf3f33808848ba96609a7f3b5487a7163ffd050c72f4401b44fe4d2de960ddb2461d210a7bad&scene=21#wechat_redirect)   
+
+  2. [ AI套壳产品，不会改变世界，但可以成为一个生意，养活一个小团队  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081343&idx=1&sn=27991503417950d0b106872ce0b91239&chksm=bf3f39048848b012fe56d2f1e3fb702c9deb07c475176978c5c97065d3c55db1a59b13d1259a&scene=21#wechat_redirect) 》   
+
+  3. [ AI+强需求=新工具  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080011&idx=1&sn=cda099ed4823cd3125831c2cd8effba6&chksm=bf3f32308848bb263e8d5f2e8a48c606e71af1e686eaf0fb1c230a55e2853b5d5676e810a4d8&scene=21#wechat_redirect)   
+
+  4. [ 放眼世界，遍地是金矿，此时不做AI，更待何时  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080005&idx=1&sn=e93eaaf158008edc0ee998d6f7171df1&chksm=bf3f323e8848bb284941af8dce5090e447332e435379dd1a476dd63446534b20e4ac865de505&scene=21#wechat_redirect)
+
+  5. [ A16Z报告说用户很愿意为AI类产品付费，名单里90%的公司已经实现盈利，几乎所有盈利公司的盈利都来自于用户订阅贡献  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080174&idx=1&sn=7b80332fe81c5f3950270c8f79b273df&chksm=bf3f32958848bb8353913b7ca8b83cbb8235cdc065141dbb3858b492d5392c7da415c312f85d&scene=21#wechat_redirect)
+
+  
+
+那么哥飞社群里的朋友们都取得了哪些成绩呢？
+
+哥飞挑几个给大家看下：
+
+  1. [ 恭喜群友做了个网站上线21天拿到10万日PV，又花了13天变成了20万日PV  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080168&idx=1&sn=7f837bf7410b7e483daf0f3829c24ea3&chksm=bf3f32938848bb85c1e7f74baee5cb56322649c8f6b515aba6a33fdda1166f60f315df98456a&scene=21#wechat_redirect)   
+
+  2. [ Threads 上线，我火速做了个网站，1小时就被谷歌收录了，操作步骤全揭秘  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650079243&idx=1&sn=45eac4f5f3587c5251c65d08e8d5d6bf&chksm=bf3f31308848b826172d78128129ef101383e8876a2acb4c51ac89e3e728894d26f3ff90d7f9&scene=21#wechat_redirect)
+
+  3. [ 群友新站上线9天拿到11030个独立访客，他是怎么做到的？  ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650079382&idx=1&sn=5a531d003bb4d9e2d7f52ab73e14665c&chksm=bf3f31ad8848b8bb8321721a3847dd8145c18c65367c86b9b1d22100033cc845af480594cdba&scene=21#wechat_redirect)
+
+  4. [ 新网站上线最快多久能从谷歌获取搜索流量？答案是48小时内。 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080029&idx=1&sn=d273f08bf67e2bf68c6e256a6aa21bde&chksm=bf3f32268848bb30d6639e5357a7980cd320068e0da0dda1c9a435d220ec871bd3093f57e1f1&scene=21#wechat_redirect)
+
+  5. [ 社群朋友9月份新上的网站从谷歌获得了1万个点击。 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080462&idx=1&sn=6ca3c332c3a4ceefd688e46492ca92d9&chksm=bf3f35f58848bce332b9264e795640aefdb171ea46b635d2040eaee10a63a49b6ffe6a3e0415&scene=21#wechat_redirect)
+
+  6. [ 入群100天，哥飞的朋友们手握百万流量，支付订单滚滚来 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080648&idx=1&sn=25928bc955f2bc06289016100e9cfeeb&chksm=bf3f34b38848bda51564715addd3d46d1e7100727f30e0db51b95c0539cb8a956ced1e4626cf&scene=21#wechat_redirect)
+
+  7. [ AI工具站日收入破千美元；零基础入门养网站防老路线图 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080885&idx=1&sn=4ee454604407e52da759d5aecca2a2de&chksm=bf3f374e8848be5868e3ab9d7e0fcc794eacb7874c563ca3cafedd60f829cbeb5e4032d5bee4&scene=21#wechat_redirect)
+
+  8. [ 2023年10月回顾：有日入千刀的，有月入千刀的，也有日UV破万的，还有才上第一个网站的，大家都是好样的 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080933&idx=1&sn=a5bd098fffe227bcf05604d055ee924c&chksm=bf3f379e8848be887f170ec05ca0a1ad32a0422cdc632f5ad4fc914d1315bae8f7016eb64ae5&scene=21#wechat_redirect)
+
+  9. [ 2023年11月回顾：有日入百刀的，有月入万刀的，也有日UV破万的，还有才上第一个网站的，大家都是好样的 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081354&idx=1&sn=01e69bf7260d0844a24a2e57d27ec7f3&chksm=bf3f39718848b06791afdd052172af87de8dbbd9fc16ed81624f034ac25deefb85043041acba&scene=21#wechat_redirect)
+
+  10. [ 每天不到100UV的网站也有人付费；11月初做的网站现在已经月收入3000美元了！ ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081997&idx=1&sn=31d0f642c8c5ea88fda32b1856050f5d&chksm=bf3f3bf68848b2e0cde67ec6d42e176bd9b58ee423a8ee73e532eaa48b35587441033e7db95a&scene=21#wechat_redirect)
+
+  11. [ 上线5天的新网站，今日UV3000多 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080988&idx=1&sn=74e3c852460074ba1084ce8f7e6fa395&chksm=bf3f37e78848bef1c06191406b1ec85b72e45ef386dbc160338aede07529c432a512cdbd1642&scene=21#wechat_redirect)
+
+  12. [ 上线4天获得4700个外链，他是怎么做到的？ ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081175&idx=1&sn=a796cb4886e6a91ce14911fc75465ba7&chksm=bf3f36ac8848bfba24ffe622b5ceb866630fb8336c53912f07d9ed4462facb5871752a05f24e&scene=21#wechat_redirect)
+
+  13. [ 能让大家的网站上线第一周就有流量的付费社群“哥飞的朋友们” ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081144&idx=1&sn=89cf845d649cc55fe9291f4b98cd3986&chksm=bf3f36438848bf55db95629a25f60b28e8559a995cf000d8e9c6b824703728240d15ffbd3542&scene=21#wechat_redirect)
+
+  14. [ 花半天开发的网站上线一周，今日3000人访问，他是怎么做到的？ ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081581&idx=1&sn=ad4f5f40e611d11874a27339e0c11ce5&chksm=bf3f38168848b100aa173d34ea85cbdec44974e047d7adbf0b8064f00a6f46af5e0e254d3662&scene=21#wechat_redirect)
+
+  15. [ 【哥飞观察】上线第一个月58万访问，第二个月170万访问的网站是如何做到的 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081864&idx=1&sn=4a64897acdc03c601087d71187ba15b7&chksm=bf3f3b738848b265a890c17dced1ac073635d50f243f29cb334b111ea8177bfeae87eb2ef2f6&scene=21#wechat_redirect)
+
+  16. [ 1200UV的AI工具站每天200美元收入 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650082406&idx=1&sn=97981a833200f6e219e46d5739d2b17a&chksm=bf3f3d5d8848b44becf684f5d23eefbb43907d7f38644731a9d087f2f7dc6b03c260bbeef7ae&scene=21#wechat_redirect)
+
+  17. [ 社群朋友两个日UV过10K的新网站：一个靠SEO，一个靠自发传播 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081167&idx=1&sn=3bddd9eca494f7aeaa1b7f7e4cc7adb7&chksm=bf3f36b48848bfa23d280118824b15185eb0f4741b64bbeddc829dd702cbb49231c21972b121&scene=21#wechat_redirect)
+
+  18. [ 社群第200天，盘点下哥飞的朋友们做的部分网站流量 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081904&idx=1&sn=26ec7c7b64d31f1ecde0a43f15065f1e&chksm=bf3f3b4b8848b25d93e0206b6fd134fdc5c08c9807068bca6aab53d5139823ab2e951ff074e0&scene=21#wechat_redirect)
+
+  19. [ 因为开源了一个价值几万块钱的GPTs导航程序，他出海第一周就有收入了 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081271&idx=1&sn=6a8196c2f1e96f629f2024a57801ccd0&chksm=bf3f36cc8848bfdadb3c9740b1d7e65f5d9b945a03080a43f26068bdcf2d76078f17ca0477f9&scene=21#wechat_redirect)
+
+  20. [ 如何花1个月从谷歌拿到100K点击？又有新网站加入10K俱乐部 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081299&idx=1&sn=7fcf68d3021179b113eac215d8c4199d&chksm=bf3f39288848b03e0c534513b3b428a34b47709f404f3fc39121e91a5e4cd7c29577052ebedd&scene=21#wechat_redirect)
+
+  21. [ 出海4个月他靠网站月入3W+美金 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081326&idx=1&sn=24b97b2b4d6f6a47ce387d7552b59dfb&chksm=bf3f39158848b003953b1ac13805e14555f4ce12ee97ff5464b51c7be97015c08610694c464f&scene=21#wechat_redirect)
+
+  22. [ 养网站防老的典型例子，一个多月把一个网站慢慢养到了每天两千多访问，未来还会更多 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081383&idx=1&sn=f05aa65ad1688fb113e3cfb0dfdd4b24&chksm=bf3f395c8848b04adbc1ed484bc608a0b6dcd09f242db9d5333483a085a4f7e97f772b7081e2&scene=21#wechat_redirect)
+
+  23. [ 一周快闪SEO比赛结果出炉，冠军拿到了哥飞发出的666元现金奖励 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081920&idx=1&sn=9b52bd8c8650acef6bedf4ea791cf0a2&chksm=bf3f3bbb8848b2ad226f1da23c918eb76b491a03f2b9e3602e4d425ab61ed0cddf4a397cd024&scene=21#wechat_redirect)
+
+  24. [ 哥飞给大家的年终奖到账了！ ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650082060&idx=1&sn=3d265ded39ddc4a083bfdced8f42f0c1&chksm=bf3f3a378848b321bd9f94e744ffd134daab49759086bc00e547a871f7c8abc0dc5426b7ea74&scene=21#wechat_redirect)
+
+  
+
+哥飞提出了“养网站防老”概念，还更新了一系列的教程：  
+
+  1. [ 养网站防老：网站可以做成一生的事业 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080601&idx=1&sn=676b0fff888c93fd63b283e87a3c75d2&chksm=bf3f34628848bd74e4a6ebac72806e89be8bbc9440196edf14cf4f08837f3a81970070a21da2&scene=21#wechat_redirect)
+
+  2. [ 养网站防老第0步：如果你没有编程基础，如果你不会前端开发，那么推荐跟着这个免费视频教程学习 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080878&idx=1&sn=19149f31408863a750bc9e8cc969b6ed&chksm=bf3f37558848be43897cd5a29190fbec1ac366535e23b062acce836e0e4d49d2c245a93b87a4&scene=21#wechat_redirect)   
+
+  3. [ 养网站防老第1步，挖掘出第1个需求 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080669&idx=1&sn=baf814d85976df09a85c44d9a45a943b&chksm=bf3f34a68848bdb065889163a3b58f10566b937769d679fa50b25768351d55ea4ef24271cae4&scene=21#wechat_redirect)   
+
+  4. [ 养网站防老第1.5步：用一个公式来判断关键词是否值得做，让你选择关键词不再犹豫 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080690&idx=1&sn=b6b8b6fbcbc1a57e476d61e574f5c1a1&chksm=bf3f34898848bd9f107fff59df18264e792c3161734b71abc48713e49c9845ec02daa243f596&scene=21#wechat_redirect)   
+
+  5. [ 养网站防老第2步：分析搜索意图 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080680&idx=1&sn=4ee04f6579aaa40acefb96318310cbcc&chksm=bf3f34938848bd850bcd811892f9b71c7a51512f9d010ab7aae46487eb045559ac55e9bd70ed&scene=21#wechat_redirect)   
+
+  6. [ 养网站防老第3步：根据搜索意图使用ChatGPT的GPT4生成网页 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080699&idx=1&sn=153560f607edada80e68d0804cf70ef7&chksm=bf3f34808848bd968c8fdd5962789ef58311ab109703d7244dd51a2df89359ee2332ccb4ae2c&scene=21#wechat_redirect)   
+
+  7. [ 养网站防老第4步：手动调整布局和样式 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080715&idx=1&sn=51a41252ac6f2c8bb9d543f9f39bb31b&chksm=bf3f34f08848bde6a1b0602352384a66e4b14e3599469ddf6c4ba75a01556fbc9a9f6ef51124&scene=21#wechat_redirect)   
+
+  8. [ 养网站防老第5步：内页和内链建设 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080739&idx=1&sn=1685ea0a11d983c256820d49ef197446&chksm=bf3f34d88848bdcea3546d50ac8a8ee5cbafda8b0b9f71e4368a3f2492905091faa41f1035f5&scene=21#wechat_redirect)   
+
+  9. [ 【6000字详解】养网站防老第6步：利用ChatGPT给网站增加多语言支持 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080755&idx=1&sn=27c8b30bcbf77d6e9aeea6469ca3c118&chksm=bf3f34c88848bddeedc07dc6529718c8a05b2befb5432b6907bd4a3bbbd44f451c9bcf4c32d5&scene=21#wechat_redirect)   
+
+  10. [ 养网站防老第7步：注册域名，解析域名，部署上线 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080806&idx=1&sn=a8294c9c5b32207adaf223f10a5e9203&chksm=bf3f371d8848be0b95b74ba59852410012865ff7ceb6408ea69dc452d10906559425ad09e999&scene=21#wechat_redirect)   
+
+  11. [ 养网站防老第8步：添加统计代码，提交到 Google Search Console，增加外链，等待被收录 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080823&idx=1&sn=8b43d3d96aac2752d48bdd13b2264099&chksm=bf3f370c8848be1ae77f3cea2663a9a5c2f6cd81aaf13a325289ab523e4de83defa7b7525ec6&scene=21#wechat_redirect)   
+
+  12. [ 养网站防老第9步：谷歌对于AI生成内容的态度及如何让AI生成高质量内容 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650080834&idx=1&sn=8195fdc685d5b73515923ac6c2911ee5&chksm=bf3f37798848be6f04bd80bbc46fe470824c99e691ab79c577b30b9af998be9026deb9b3e0ab&scene=21#wechat_redirect)
+
+  13. [ 如果你准备出海，请提前注册好海外各种媒体、社区、服务的账号，并时长登录保持活跃 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650079518&idx=1&sn=12261e1a98fe237d72a6eba0c3b91061&chksm=bf3f30258848b933a25f19282c74bf9896aa381937702fe82859b5dec09a108df191e0c9b60f&scene=21#wechat_redirect)
+
+  14. [ 养网站防老的典型例子，一个多月把一个网站慢慢养到了每天两千多访问，未来还会更多 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650081383&idx=1&sn=f05aa65ad1688fb113e3cfb0dfdd4b24&chksm=bf3f395c8848b04adbc1ed484bc608a0b6dcd09f242db9d5333483a085a4f7e97f772b7081e2&scene=21#wechat_redirect)
+
+  15. [ 【养网站防老案例】月访问量277万的工具站，已运行11年 ](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650082362&idx=1&sn=8d97f5ee5e9ccc36dfa0f48e305b7c33&chksm=bf3f3d018848b41784b9e010365208559affa6355bb57ac65051091dcd97f963aa7f6e189eae&scene=21#wechat_redirect)
+
+[
+](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650082362&idx=1&sn=8d97f5ee5e9ccc36dfa0f48e305b7c33&chksm=bf3f3d018848b41784b9e010365208559affa6355bb57ac65051091dcd97f963aa7f6e189eae&scene=21#wechat_redirect)
+
+还在植树节那天，提出了一个新概念《 [ 【养网站防老】每个人都要有自己的小果园，今天请为你的果园种下第一棵小树苗吧
+](http://mp.weixin.qq.com/s?__biz=MjM5OTIzMzYyMA==&mid=2650082415&idx=1&sn=8b725d7238143cdf7b0992b6f7835b57&chksm=bf3f3d548848b442dafc0a5fa379cf90be1749a82d62c2371d2140fed2cc5bbc86e3430e2d6f&scene=21#wechat_redirect)
+》。
+
+以上就是哥飞的社群的介绍，如果你还有什么想了解的，或者想加入社群，请加哥飞微信 qiayue 。  
+
+![](https://mmbiz.qpic.cn/sz_mmbiz_png/LBrX00GQeictfJNjePhchkZYLuBwKPcJlnZQYrN8QibDK3jrvycyWs3MDicu1ibntWVBViahQBibHCN9DguLc15AicbBg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+  
+
+预览时标签不可点
+
+微信扫一扫  
+关注该公众号
+
+
+
+
+
+****
+
+
+
+****
+
+
+
+  收藏
+
