@@ -26,7 +26,7 @@ https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5OTIzMzYyMA==&scene
 
 ### 为什么不直接用wechatDownload？
 
-试过，在我电脑上会闪退
+试过，在我电脑上批量下载的时候会闪退
 
 ### 请随意打赏
 
