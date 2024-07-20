@@ -4,7 +4,7 @@
 
 ### 导出方法
 
-工具：fiddler + pc版微信 + [wechatDownload](https://github.com/qiye45/wechatDownload)
+工具：fiddler + pc端微信 + [wechatDownload](https://github.com/qiye45/wechatDownload)
 
 ### 导出步骤
 
@@ -30,7 +30,7 @@ https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5OTIzMzYyMA==&scene
 
 ### 可能存在的问题
 
-有时候在pc微信上打开历史目录页面，滚动了几次之后就一直显示正在加载中了。这时候可以换成手机抓包，在手机模拟器打开历史目录。具体可参考[fiddler everywhere + 夜神模拟器抓包小红书](https://juejin.cn/post/7186501682396659749)。方法是差不多的，就是手机抓包会麻烦一点。
+有时候在pc端微信上打开历史目录页面，滚动了几次之后就一直显示正在加载中了。这时候可以换成手机抓包，在手机模拟器打开历史目录。具体可参考[fiddler everywhere + 夜神模拟器抓包小红书](https://juejin.cn/post/7186501682396659749)。方法是差不多的，就是手机抓包会麻烦一点。
 
 ### 请随意打赏
 
