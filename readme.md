@@ -28,6 +28,10 @@ https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5OTIzMzYyMA==&scene
 
 试过，在我电脑上批量下载的时候会闪退
 
+### 可能存在的问题
+
+有时候在pc微信上打开历史目录页面，滚动了几次之后就一直显示正在加载中了。这时候可以换成手机抓包，在手机模拟器打开历史目录。具体可参考[fiddler everywhere + 夜神模拟器抓包小红书](https://juejin.cn/post/7186501682396659749)。方法是差不多的，就是手机抓包会麻烦一点。
+
 ### 请随意打赏
 
 <img src="https://cdn.mundane.ink/202406292004494.jpg" width="300px" /><img src="https://cdn.mundane.ink/202406292004272.png" width="300px" />
