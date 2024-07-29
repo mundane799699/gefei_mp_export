@@ -6,6 +6,9 @@
 
 fiddler + pc端微信 + [wechatDownload](https://github.com/qiye45/wechatDownload)
 
+### 视频教程
+
+https://www.bilibili.com/video/BV1mCvNerEQm/
 
 ### 导出步骤
 
